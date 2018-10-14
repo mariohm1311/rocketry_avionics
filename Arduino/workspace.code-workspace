@@ -1,0 +1,70 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\mario\\.platformio\\lib"
+		},
+		{
+			"path": "gps"
+		},
+		{
+			"path": "altimeter"
+		},
+		{
+			"path": "IMU"
+		},
+		{
+			"path": "rt_3D_orientation"
+		},
+		{
+			"path": "altimeter_nano"
+		},
+		{
+			"path": "gps_nano"
+		},
+		{
+			"path": "imu_nano"
+		},
+		{
+			"path": "avionics_nano"
+		},
+		{
+			"path": "sd_uno"
+		},
+		{
+			"path": "sd_nano"
+		},
+		{
+			"path": "avionics_old_nano"
+		},
+		{
+			"path": "bunnyDemo_nano",
+			"name": "bunnyDemo_nano"
+		},
+		{
+			"path": "button_uno",
+			"name": "button_uno"
+		},
+		{
+			"path": "gpsISR_nano",
+			"name": "gpsISR_nano"
+		},
+		{
+			"path": "test_uno",
+			"name": "test_uno"
+		},
+		{
+			"path": "test_nano",
+			"name": "test_nano"
+		},
+		{
+			"path": "load_calib_SD_nano",
+			"name": "load_calib_SD_nano"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\mario\\.platformio\\penv\\Scripts;C:\\Users\\mario\\.platformio\\penv;c:\\program files (x86)\\common files\\oracle\\java\\javapath;c:\\program files\\nvidia gpu computing toolkit\\cuda\\v8.0\\bin;c:\\program files\\nvidia gpu computing toolkit\\cuda\\v8.0\\libnvvp;c:\\proglang\\julia-0.6.0\\bin;c:\\proglang\\anaconda\\library\\mingw-w64\\bin;c:\\proglang\\anaconda\\library\\usr\\bin;c:\\proglang\\anaconda\\library\\bin;c:\\proglang\\anaconda\\scripts;c:\\proglang\\anaconda\\;c:\\programdata\\oracle\\java\\javapath;c:\\program files (x86)\\intel\\icls client\\;c:\\program files\\intel\\icls client\\;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\program files (x86)\\intel\\intel(r) management engine components\\dal;c:\\program files\\intel\\intel(r) management engine components\\dal;c:\\program files (x86)\\intel\\intel(r) management engine components\\ipt;c:\\program files\\intel\\intel(r) management engine components\\ipt;c:\\program files\\intel\\wifi\\bin\\;c:\\program files\\common files\\intel\\wirelesscommon\\;c:\\program files\\microsoft sql server\\130\\tools\\binn\\;c:\\program files\\dotnet\\;c:\\users\\mario\\appdata\\local\\githubdesktop\\app-0.7.2\\resources\\app\\git\\mingw64\\bin\\;c:\\program files\\cudnn\\bin\\;c:\\proglang\\nim-0.17.0\\bin\\;c:\\users\\mario\\.nimble\\bin\\;c:\\proglang\\texlive\\2017\\bin\\win32\\;c:\\program files (x86)\\microsoft visual studio\\2017\\community\\vc\\auxiliary\\build\\;c:\\users\\mario\\documents\\shortcuts\\in_path\\;c:\\program files\\matlab\\r2016a\\runtime\\win64;c:\\program files\\matlab\\r2016a\\bin;c:\\program files\\matlab\\r2016a\\polyspace\\bin;c:\\program files (x86)\\gnuwin32\\bin\\;c:\\proglang\\metasploit\\;c:\\program files\\parity\\parity;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\users\\mario\\appdata\\local\\githubdesktop\\app-1.0.3\\resources\\app\\git\\cmd\\;c:\\proglang\\go\\bin;c:\\program files\\git\\cmd;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\windows\\system32\\openssh\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Calibre2\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\mario\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Users\\mario\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\mario\\AppData\\Local\\atom\\bin;C:\\Users\\mario\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\mario\\AppData\\Local\\Keybase\\;C:\\ProgLang\\processing-3.4;;c:\\program files (x86)\\common files\\oracle\\java\\javapath;c:\\program files\\nvidia gpu computing toolkit\\cuda\\v8.0\\bin;c:\\program files\\nvidia gpu computing toolkit\\cuda\\v8.0\\libnvvp;c:\\proglang\\julia-0.6.0\\bin;c:\\proglang\\anaconda\\library\\mingw-w64\\bin;c:\\proglang\\anaconda\\library\\usr\\bin;c:\\proglang\\anaconda\\library\\bin;c:\\proglang\\anaconda\\scripts;c:\\proglang\\anaconda\\;c:\\programdata\\oracle\\java\\javapath;c:\\program files (x86)\\intel\\icls client\\;c:\\program files\\intel\\icls client\\;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\program files (x86)\\intel\\intel(r) management engine components\\dal;c:\\program files\\intel\\intel(r) management engine components\\dal;c:\\program files (x86)\\intel\\intel(r) management engine components\\ipt;c:\\program files\\intel\\intel(r) management engine components\\ipt;c:\\program files\\intel\\wifi\\bin\\;c:\\program files\\common files\\intel\\wirelesscommon\\;c:\\program files\\microsoft sql server\\130\\tools\\binn\\;c:\\program files\\dotnet\\;c:\\users\\mario\\appdata\\local\\githubdesktop\\app-0.7.2\\resources\\app\\git\\mingw64\\bin\\;c:\\program files\\cudnn\\bin\\;c:\\proglang\\nim-0.17.0\\bin\\;c:\\users\\mario\\.nimble\\bin\\;c:\\proglang\\texlive\\2017\\bin\\win32\\;c:\\program files (x86)\\microsoft visual studio\\2017\\community\\vc\\auxiliary\\build\\;c:\\users\\mario\\documents\\shortcuts\\in_path\\;c:\\program files\\matlab\\r2016a\\runtime\\win64;c:\\program files\\matlab\\r2016a\\bin;c:\\program files\\matlab\\r2016a\\polyspace\\bin;c:\\program files (x86)\\gnuwin32\\bin\\;c:\\proglang\\metasploit\\;c:\\program files\\parity\\parity;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\users\\mario\\appdata\\local\\githubdesktop\\app-1.0.3\\resources\\app\\git\\cmd\\;c:\\proglang\\go\\bin;c:\\program files\\git\\cmd;c:\\windows\\system32;c:\\windows;c:\\windows\\system32\\wbem;c:\\windows\\system32\\windowspowershell\\v1.0\\;c:\\windows\\system32\\openssh\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files (x86)\\Calibre2\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\mario\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Intel\\WiFi\\bin\\;C:\\Program Files\\Common Files\\Intel\\WirelessCommon\\;C:\\Users\\mario\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\mario\\AppData\\Local\\atom\\bin;C:\\Users\\mario\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\mario\\AppData\\Local\\Keybase\\;C:\\ProgLang\\processing-3.4;",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
